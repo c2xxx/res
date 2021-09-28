@@ -1,0 +1,19 @@
+{
+	"code": 200,
+	"msg": "成功",
+	"result": {
+		"totalCount": 1,
+		"pageCount": 1,
+		"pageNum": 1,
+		"pageSize": 20,
+		"list": [{
+			"patrolLogId": 1,
+			"storeId": 10189,
+			"storeName": "长汀兆征路1店",
+			"refromNmu": 2,
+			"reformTime": "2021-09-27 09:18:04",
+			"readStatus": 1
+		}]
+	},
+	"success": true
+}

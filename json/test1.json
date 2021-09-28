@@ -1,0 +1,16 @@
+{
+    "code": 200,
+    "msg": "success",
+	"result":{
+		"name":"chenhui",
+		"age":18,
+		"school":"好好学习,天天向上!"
+	}, 
+    "data": [
+        {
+            "ip": "baidu.com",
+            "port": 1234,
+            "score": 100
+        }
+    ]
+}
